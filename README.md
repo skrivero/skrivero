@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on writing dokumentation 
 - 📫 How to reach me send me a message 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love eating rice 
+- ⚡ Fun fact: love sitting and do nothing 😁
 
 <!---
 skrivero/skrivero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
