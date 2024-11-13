@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @skrivero
 - 👀 I’m interested in writing and mindfulness 
 - 🌱 I’m currently learning technical writing and digital drawing 
-- 💞️ I’m looking to collaborate on writing dokumentation 
+- 💞️ I’m looking to collaborate on writing documentation 
 - 📫 How to reach me send me a message 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: love sitting and do nothing 😁
+- ⚡ Fun fact: slowing down is my password
 
 <!---
 skrivero/skrivero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
